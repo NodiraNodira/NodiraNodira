@@ -1,4 +1,4 @@
-### Hi I'm Nodira <img src="<div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/fx5e8vTQDs1Mc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-kitty-cute-cartoon-fx5e8vTQDs1Mc">via GIPHY</a></p>">
+### Hi I'm Nodira <div style="width:100%;height:0;padding-bottom:60%;position:relative;"><iframe src="https://giphy.com/embed/fx5e8vTQDs1Mc" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-kitty-cute-cartoon-fx5e8vTQDs1Mc">via GIPHY</a></p>
 <!--
 **NodiraNodira/NodiraNodira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
