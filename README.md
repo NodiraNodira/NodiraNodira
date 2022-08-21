@@ -1,5 +1,4 @@
-### Hi I'm Nodira <img src="https://giphy.com/embed/QWSz1LBK13Rhm" <a href="https://giphy.com/gifs/foxadhd-artists-on-tumblr-jeremy-sengly-QWSz1LBK13Rhm">via GIPHY</a>"
-
+### Hi I'm Nodira <img src="http://queeniefree.tumblr.com/post/38409177053">
 <!--
 **NodiraNodira/NodiraNodira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
