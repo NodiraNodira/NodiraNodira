@@ -1,4 +1,4 @@
-### Hi I'm Nodira <iframe src="https://giphy.com/embed/U3smyJhYEJiyrcw8CL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LINEFRIENDS-cute-baby-bt21-U3smyJhYEJiyrcw8CL">via GIPHY</a></p>
+### Hi I'm Nodira <iframe src="https://giphy.com/embed/oOWN56iC9dAyD2ULYr" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/titounis-oOWN56iC9dAyD2ULYr">via GIPHY</a></p>
 <!--
 **NodiraNodira/NodiraNodira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
