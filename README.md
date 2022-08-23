@@ -9,8 +9,8 @@ I can work part time because of my studies and I like to travel
   <img src="https://user-images.githubusercontent.com/101955512/186043626-cf5fa934-bc95-45eb-a31c-490983d72349.png" width="75px"></code>
 <br/>
 
--&&nbsp:Currrent location:Uzbekistan.
--📑&nbsp:Ask me about anything.I am happy to help.
+-&&nbsp:Currrent location:Uzbekistan.<br/>
+-📑&nbsp:Ask me about anything.I am happy to help.<br/>
 -📰&nbsp:How to reach me;[@Nurli_003]
 
 
